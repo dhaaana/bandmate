@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">BandMate</string>
+    <string name="profile_name">Ramadhana Rizqy Arifin</string>
+    <string name="profile_email">ddhanarr@gmail.com</string>
+
+    <string name="home_greeting">Selamat Datang di</string>
+    <string name="home_recommendation">Rekomendasi Untukmu</string>
+    <string name="bands_name">Nama Band</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_page_title">About</string>
+    <string name="splash_logo_description">Logo</string>
+    <string name="detail_photo_description">Band Photo</string>
+    <string name="band_member_title">Anggota:</string>
+    <string name="band_member_photo_description">Band Member Photo</string>
+    <string name="action_share">Share</string>
+
+
+    <integer-array name="data_id">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </integer-array>
+
+    <string-array name="data_name">
+        <item>The Beatles</item>
+        <item>Pink Floyd</item>
+        <item>The Police</item>
+        <item>The Smiths</item>
+        <item>Queen</item>
+        <item>Nirvana</item>
+        <item>Green Day</item>
+        <item>Oasis</item>
+        <item>The Strokes</item>
+        <item>Arctic Monkeys</item>
+    </string-array>
+
+    <string-array name="data_members">
+        <item>John Lennon, Paul McCartney, George Harrison, Ringo Starr</item>
+        <item>David Gilmour, Nick Mason, Richard Wright, Roger Waters, Syd Barrett</item>
+        <item>Sting, Andy Summers, Stewart Copeland, Henry Padovani</item>
+        <item>Morrissey, Johnny Marr, Andy Rourke, Mike Joyce</item>
+        <item>Freddie Mercury, Brian May, John Deacon, Roger Taylor</item>
+        <item>Kurt Cobain, Krist Novoselic, Dave Grohl</item>
+        <item>Billie Joe Armstrong, Mike Dirnt, Tre Cool</item>
+        <item>Liam Gallagher, Noel Gallagher, Paul "Bonehead" Arthurs, Paul "Guigsy" McGuigan, Alan White</item>
+        <item>Julian Casablancas, Nick Valensi, Albert Hammond Jr., Nikolai Fraiture, Fabrizio Moretti</item>
+        <item>Alex Turner, Jamie Cook, Nick O\'Malley, Matt Helders</item>
+    </string-array>
+
+    <string-array name="data_positions">
+        <item>Singer, Guitarist, Guitarist, Drummer</item>
+        <item>Guitarist, Drummer, Keyboardist, Bassist, Founder/Guitarist/Singer</item>
+        <item>Singer/Bassist, Guitarist, Drummer, Guitarist</item>
+        <item>Singer, Guitarist, Bassist, Drummer</item>
+        <item>Singer, Guitarist, Bassist, Drummer</item>
+        <item>Singer/Guitarist, Bassist, Drummer</item>
+        <item>Singer/Guitarist, Bassist, Drummer</item>
+        <item>Singer, Guitarist, Guitarist, Bassist, Drummer</item>
+        <item>Singer, Guitarist, Guitarist, Bassist, Drummer</item>
+        <item>Singer/Guitarist, Guitarist, Bassist, Drummer</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>The Beatles adalah band rock asal Inggris yang terbentuk di Liverpool pada tahun 1960. Mereka adalah salah satu band yang paling sukses secara komersial dan diakui secara kritis dalam sejarah musik populer, dan dikenal karena inovasi dan pengaruh mereka pada genre rock.</item>
+        <item>Pink Floyd adalah band rock asal Inggris yang terkenal dengan musik psikedelik dan progresif mereka. Mereka dianggap sebagai salah satu band yang paling berpengaruh dan sukses sepanjang masa, dan dikenal karena desain album ikonik mereka dan pertunjukan panggung yang megah.</item>
+        <item>The Police adalah grup musik rock yang dibentuk tahun 1976 di London, Inggris. Mereka merupakan salah satu grup new wave pertama yang sukses secara komersial. Mereka memainkan musik rock yang dipengaruhi oleh jazz, punk, dan reggae</item>
+        <item>The Smiths adalah band rock asal Inggris yang terbentuk di Manchester pada tahun 1982. Mereka dikenal karena suara mereka yang unik, yang menggabungkan elemen rock, indie, dan post-punk, serta lirik dan gaya vokal yang khas dari vokalis utama Morrissey.</item>
+        <item>Queen adalah band rock asal Inggris yang terbentuk di London pada tahun 1970. Mereka dikenal karena beragam gaya musik mereka dan pertunjukan panggung yang teatrikal, serta suara vokal yang khas dari vokalis utama Freddie Mercury.</item>
+        <item>Nirvana adalah band rock asal Amerika yang terbentuk di Seattle pada tahun 1987. Mereka dikenal karena peran mereka dalam mempopulerkan genre musik grunge, serta penulisan lagu dan suara vokal khas dari frontman Kurt Cobain.</item>
+        <item>Green Day adalah band rock asal Amerika yang terbentuk di California pada tahun 1987. Mereka dikenal karena suara punk rock mereka dan lirik yang bermuatan politik, dan dianggap membantu memulihkan minat pada musik punk di tahun 1990-an.</item>
+        <item>Oasis adalah band rock asal Inggris yang terbentuk di Manchester pada tahun 1991. Mereka dikenal karena suara mereka yang khas, yang menggabungkan elemen rock, pop, dan Britpop, serta penulisan lagu dan vokal dari saudara-saudara Liam dan Noel Gallagher.</item>
+        <item>The Strokes adalah band rock asal Amerika yang terbentuk di New York City pada tahun 1998. Mereka dikenal karena suara garage rock mereka dan citra gaya hidup yang trendi, dan dianggap sebagai salah satu band kunci dalam kebangkitan garage rock pada awal 2000-an.</item>
+        <item>Arctic Monkeys adalah band rock asal Inggris yang terbentuk di Sheffield pada tahun 2002. Mereka dikenal karena suara indie rock mereka dan lirik observasional, dan telah dipuji karena kemampuan mereka untuk berevolusi dan bereksperimen dengan musik mereka dari waktu ke waktu.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/the_beatles</item>
+        <item>@drawable/pink_floyd</item>
+        <item>@drawable/the_police</item>
+        <item>@drawable/the_smiths</item>
+        <item>@drawable/queen</item>
+        <item>@drawable/nirvana</item>
+        <item>@drawable/green_day</item>
+        <item>@drawable/oasis</item>
+        <item>@drawable/the_strokes</item>
+        <item>@drawable/arctic_monkeys</item>
+    </integer-array>
+</resources>
